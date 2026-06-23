@@ -20,5 +20,9 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=Payal-goell&icon=0&color=9)](https://visitcount.itsvg.in)
+<div align="center">
+  ![snake gif](https://github.com/Payal-goell/Payal-goell/blob/output/github-snake-dark.svg)
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
